@@ -1,2 +1,2 @@
-# react-vue-task-tracker-app
-Two variations of a Task tracker app project from Brad Traversy Vue and React crash courses
+# vue-task-tracker-app
+Task tracker app project from Brad Traversy vue crash course made with Vuejs
